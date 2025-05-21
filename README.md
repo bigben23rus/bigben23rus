@@ -11,7 +11,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigben23rus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---статистика LeetCode:  --> 
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=paul_paul)](https://github.com/paul_paul/leetcode-stats)
+<!---[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=paul_paul)](https://github.com/paul_paul/leetcode-stats)-->
+![](https://leetcard.jacoblin.cool/paul_paul?theme=unicorn)
 
 
 **About myself**\

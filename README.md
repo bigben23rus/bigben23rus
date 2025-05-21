@@ -12,7 +12,7 @@
 
 <!---статистика LeetCode:  --> 
 <!---[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=paul_paul)](https://github.com/paul_paul/leetcode-stats)-->
-![](https://leetcard.jacoblin.cool/paul_paul?theme=unicorn)
+<!---![](https://leetcard.jacoblin.cool/paul_paul?theme=unicorn)--> 
 
 
 **About myself**\

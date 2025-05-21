@@ -10,9 +10,9 @@
 <!---статистика ЯП-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigben23rus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!---статистика LeetCode:  
+<!---статистика LeetCode:  --> 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=profile_delete)](https://github.com/KnlnKS/leetcode-stats)
---> 
+
 
 **About myself**\
 I am interested in developing technical expertise. I adapt to change and accept new ideas.
